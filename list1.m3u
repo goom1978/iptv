@@ -9,3 +9,24 @@ http://mi.chv.cl/playlist/stream.m3u8?s=hd
 http://movilstream.digitalproserver.com:443/redtv/redtvvivo/livestream1/playlist.m3u8
 #EXTINF:-1 ,MEGA HD
 http://edge-11-mvstr.edge.mdstrm.com/live/smil:db6a38a0a2bffd96d01965c4d975b9fb/playlist_b1500.m3u8
+#EXTINF:-1,Animal Planet HD
+#EXTVLCOPT:audio-track=1
+http://102As4YTp.us.to/udp/233.7.70.225:5000
+#EXTINF:-1,Discovery Channel HD
+#EXTVLCOPT:audio-track=1
+http://102As4YTp.us.to/udp/233.7.70.253:5000
+#EXTINF:-1,Discovery Science HD
+#EXTVLCOPT:audio-track=1
+http://102As4YTp.us.to/udp/233.7.70.195:5000
+#EXTINF:-1,History HD
+#EXTVLCOPT:audio-track=1
+http://102As4YTp.us.to/udp/233.7.70.230:5000
+#EXTINF:-1,Nat Geo Wild HD
+#EXTVLCOPT:audio-track=1
+http://102As4YTp.us.to/udp/233.7.70.133:5000
+#EXTINF:-1,National Geographic HD
+#EXTVLCOPT:audio-track=1
+http://102As4YTp.us.to/udp/233.7.70.159:5000
+#EXTINF:-1,Travel+ Adventure HD
+#EXTVLCOPT:audio-track=1
+http://102As4YTp.us.to/udp/233.7.70.156:5000
